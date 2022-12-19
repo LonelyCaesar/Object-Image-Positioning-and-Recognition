@@ -4,3 +4,4 @@
 安裝pip install imageai-2.0.1-py3-none-any.whl
 安裝pip install keras=2.2.0
 安裝pip install tensorflow==1.10.0
+請使用anaconda3.6版執行
